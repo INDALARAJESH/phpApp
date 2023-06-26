@@ -1,0 +1,1 @@
+<?php echo cleanEmail($content); ?><?php /**PATH D:\xampp\htdocs\application\resources\views/pages/emails/template.blade.php ENDPATH**/ ?>
